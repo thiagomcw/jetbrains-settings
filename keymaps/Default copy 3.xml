@@ -3,6 +3,9 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="c" />
   </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="DatabaseView.CopyAction" />
@@ -11,6 +14,7 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="b" />
