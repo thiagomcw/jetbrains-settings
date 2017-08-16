@@ -3,7 +3,7 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="c" />
   </action>
-  <action id="CloseActiveTab">
+  <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
