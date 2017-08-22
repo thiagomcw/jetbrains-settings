@@ -20,7 +20,7 @@
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="b" />
   </action>
   <action id="Git.Pull">
-    <keyboard-shortcut first-keystroke="g" second-keystroke="u" />
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="u" />
   </action>
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="r" />
