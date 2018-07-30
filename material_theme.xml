@@ -1,8 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="version" value="2.7.0" />
     <option name="highlightColor" value="59a0cb" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="wallpaperSet" value="false" />
     <option name="tabsHeight" value="36" />
+    <option name="userId" value="-7b046475:164ec225be6:-7fff" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>
