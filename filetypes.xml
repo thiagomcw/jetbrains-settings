@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="back-validation-errors" type="JavaScript" />
       <mapping pattern="dep" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
