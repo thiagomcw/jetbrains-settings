@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="back-validation-errors" type="JavaScript" />
       <mapping pattern="dep" type="PLAIN_TEXT" />
+      <mapping ext="fdf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
