@@ -12,6 +12,8 @@
           <set>
             <option value="site" />
             <option value="upload" />
+            <option value="usuário" />
+            <option value="Você só precisa" />
           </set>
         </option>
       </SuppressingContext>
