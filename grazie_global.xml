@@ -14,6 +14,7 @@
             <option value="upload" />
             <option value="usuário" />
             <option value="Você só precisa" />
+            <option value="download" />
           </set>
         </option>
       </SuppressingContext>
