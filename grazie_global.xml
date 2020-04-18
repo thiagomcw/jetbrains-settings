@@ -11,6 +11,7 @@
         <option name="suppressed">
           <set>
             <option value="site" />
+            <option value="upload" />
           </set>
         </option>
       </SuppressingContext>
