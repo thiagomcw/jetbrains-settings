@@ -22,6 +22,8 @@
             <option value="você só precisa" />
             <option value="está entendendo" />
             <option value="desenvolvedor" />
+            <option value="performance" />
+            <option value="você pensa" />
           </set>
         </option>
       </SuppressingContext>
