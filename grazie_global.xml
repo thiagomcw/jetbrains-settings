@@ -11,19 +11,20 @@
         <option name="suppressed">
           <set>
             <option value="usuário" />
+            <option value="torna seus" />
+            <option value="upload" />
+            <option value="está entendendo" />
+            <option value="você pensa" />
+            <option value="Você só precisa" />
             <option value="acessíveis pela URL," />
             <option value="site" />
             <option value="download" />
-            <option value="torna seus" />
-            <option value="upload" />
+            <option value="performance" />
             <option value="tornar seus" />
-            <option value="Você só precisa" />
+            <option value="desenvolvedor" />
             <option value="acessíveis pela URL do" />
             <option value="você só precisa" />
-            <option value="está entendendo" />
-            <option value="desenvolvedor" />
-            <option value="performance" />
-            <option value="você pensa" />
+            <option value="crie um novo" />
           </set>
         </option>
       </SuppressingContext>
