@@ -10,6 +10,7 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
+            <option value="você faz" />
             <option value="usuário" />
             <option value="torna seus" />
             <option value="você não vai" />
@@ -33,7 +34,7 @@
             <option value="você só precisa" />
             <option value="O momento chave da" />
             <option value=", código limpo, nada mais é do que uma filosofia de programação que tem como finalidade facilitar a escrita e a leitura de código," />
-            <option value="você faz" />
+            <option value="estamos falando" />
           </set>
         </option>
       </SuppressingContext>
