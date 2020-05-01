@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="back-validation-errors" type="JavaScript" />
       <mapping pattern="dep" type="PLAIN_TEXT" />
       <mapping ext="fdf" type="PLAIN_TEXT" />
