@@ -40,10 +40,11 @@
             <option value="site" />
             <option value="performance" />
             <option value="super complexo" />
+            <option value="Desenvolvedor" />
             <option value="desenvolvedor" />
             <option value="O momento chave da" />
             <option value=", código limpo, nada mais é do que uma filosofia de programação que tem como finalidade facilitar a escrita e a leitura de código," />
-            <option value="Desenvolvedor" />
+            <option value="Antes de mais nada" />
           </set>
         </option>
       </SuppressingContext>
