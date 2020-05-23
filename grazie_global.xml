@@ -16,6 +16,7 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
+            <option value="em equipe" />
             <option value="você não vai" />
             <option value="acrônimo" />
             <option value="upload" />
@@ -48,7 +49,8 @@
             <option value="gatinho" />
             <option value=", código limpo, nada mais é do que uma filosofia de programação que tem como finalidade facilitar a escrita e a leitura de código," />
             <option value="O momento chave da" />
-            <option value="em equipe" />
+            <option value="desenvolvedores" />
+            <option value="blog" />
           </set>
         </option>
       </SuppressingContext>
