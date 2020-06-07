@@ -28,6 +28,7 @@
             <option value="gerenciamento" />
             <option value="quilômetros" />
             <option value="desenvolvedores" />
+            <option value="está pedindo" />
             <option value="acessíveis pela URL," />
             <option value="crie um novo" />
             <option value="download" />
@@ -56,7 +57,7 @@
             <option value="gatinho" />
             <option value=", código limpo, nada mais é do que uma filosofia de programação que tem como finalidade facilitar a escrita e a leitura de código," />
             <option value="O momento chave da" />
-            <option value="está pedindo" />
+            <option value="a equipe" />
           </set>
         </option>
       </SuppressingContext>
