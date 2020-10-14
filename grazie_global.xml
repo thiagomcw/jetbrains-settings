@@ -1,0 +1,75 @@
+<application>
+  <component name="GraziConfig">
+    <option name="userDisabledRules">
+      <set>
+        <option value="NO_VERB" />
+        <option value="T-V_DISTINCTION" />
+      </set>
+    </option>
+    <option name="userEnabledRules">
+      <set>
+        <option value="AVOID_GERUND" />
+      </set>
+    </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value=", código limpo, nada mais é do que uma filosofia de programação que tem como finalidade facilitar a escrita e a leitura de código," />
+            <option value="Antes de mais nada" />
+            <option value="Desenvolvedor" />
+            <option value="O momento chave da" />
+            <option value="Porém" />
+            <option value="Sim e não." />
+            <option value="Você só precisa" />
+            <option value="a equipe" />
+            <option value="a quantidade de código escrito está diretamente ligada a quantidade de" />
+            <option value="acessíveis pela URL do" />
+            <option value="acessíveis pela URL," />
+            <option value="acrônimo" />
+            <option value="blog" />
+            <option value="crie um novo" />
+            <option value="desenvolvedor" />
+            <option value="desenvolvedores" />
+            <option value="download" />
+            <option value="e-mail" />
+            <option value="e-mails" />
+            <option value="em equipe" />
+            <option value="estamos falando" />
+            <option value="estava fazendo" />
+            <option value="estou dizendo" />
+            <option value="estou falando" />
+            <option value="está entendendo" />
+            <option value="está fazendo" />
+            <option value="está pedindo" />
+            <option value="gatinho" />
+            <option value="gerenciamento" />
+            <option value="performance" />
+            <option value="que escrever testes, mas sim, quais vai escrever para" />
+            <option value="que os desenvo" />
+            <option value="que vai tomar conta do mercado e que todo resto vai desaparecer" />
+            <option value="quilômetros" />
+            <option value="revisa" />
+            <option value="sabe do que" />
+            <option value="site" />
+            <option value="super complexo" />
+            <option value="times" />
+            <option value="torna seus" />
+            <option value="tornar seus" />
+            <option value="uma equipe" />
+            <option value="upload" />
+            <option value="usuário" />
+            <option value="usuários" />
+            <option value="você acessa" />
+            <option value="você faz" />
+            <option value="você não vai" />
+            <option value="você pensa" />
+            <option value="você só precisa" />
+            <option value="é aderindo" />
+            <option value="é dividindo" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
+  </component>
+</application>
