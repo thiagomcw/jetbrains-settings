@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
   <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="CONCAT_SPACES" value="false" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="PHPDOC_PARAM_SPACES_BETWEEN_TAG_AND_TYPE" value="2" />
@@ -14,6 +15,7 @@
   <codeStyleSettings language="PHP">
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
