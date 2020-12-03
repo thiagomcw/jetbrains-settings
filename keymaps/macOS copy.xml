@@ -1,6 +1,8 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
-  <action id="ActivateTerminalToolWindow">
+  <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ChangesView.Diff" />
