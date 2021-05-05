@@ -2,7 +2,7 @@
   <tool name="php-cs-fixer" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/Codes/suno/suno-sales/vendor/friendsofphp/php-cs-fixer/php-cs-fixer" />
-      <option name="PARAMETERS" value="fix --verbose --config=$ProjectFileDir$/.php-cs-fixer.dist.php --path-mode=intersection --using-cache=&quot;no&quot; &quot;$FileDir$/$FileName$&quot;" />
+      <option name="PARAMETERS" value="fix --verbose --config=$ProjectFileDir$/.php_cs.dist --path-mode=intersection --using-cache=off &quot;$FileDir$/$FileName$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
