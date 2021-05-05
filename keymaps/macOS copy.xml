@@ -11,6 +11,7 @@
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="DatabaseView.PropertiesAction" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DomCollectionControl.Edit">
@@ -68,6 +69,9 @@
   </action>
   <action id="Sql.EditParameter">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Tool_External Tools_php-cs-fixer">
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.EditSource">
